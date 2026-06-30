@@ -1,0 +1,7 @@
+beautifulsoup4
+chromadb
+matplotlib
+ollama
+pandas
+streamlit
+tqdm
